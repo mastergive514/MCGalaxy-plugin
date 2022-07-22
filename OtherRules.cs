@@ -1,5 +1,5 @@
-# You Need to Edit rules On 29 Line
-# You Can Use p.Message(""); for other rule
+// You Need to Edit rules On 29 Line
+// You Can Use p.Message(""); for other rule
 
 using System;
 using MCGalaxy;
