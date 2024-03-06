@@ -19,7 +19,7 @@ namespace Core {
         }
     }
     
-    public class CmdSomething : Command2 {
+    public class CmdOtherrules : Command2 {
         public override string name { get { return "otherrules"; } }
         public override string type { get { return "other"; } }
         public override LevelPermission defaultRank { get { return LevelPermission.Operator; } }
